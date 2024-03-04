@@ -5,6 +5,9 @@ __pycache__/
 
 config.json
 *.ics
+data/*.json
+artist-list.csv
+artists.json
 
 # C extensions
 *.so
