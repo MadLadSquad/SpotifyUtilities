@@ -8,6 +8,8 @@ config.json
 data/*.json
 artists-list.csv
 artists.json
+W*/
+
 
 # C extensions
 *.so
